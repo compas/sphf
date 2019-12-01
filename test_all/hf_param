@@ -1,0 +1,10 @@
+HF_parameters
+-------------
+h       =     0.125000
+ks      =            6
+ns      =           42
+scf_tol =     1.00D-15
+orb_tol =     1.00D-09
+end_tol =     1.00D-09
+acc_max =            1
+varied  =          all
