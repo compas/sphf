@@ -1,5 +1,5 @@
 # SPHF
-A B-spline Hartree-Fock program ([Froese Fischer CPC 182 1315 (2011)](https://doi.org/10.1016/j.cpc.2011.01.012))
+A B-spline Hartree-Fock program [[Froese Fischer CPC 182 1315 (2011)](https://doi.org/10.1016/j.cpc.2011.01.012)]
 
 ```
 Title:       The B-spline Hartree-Fock program, sphf
